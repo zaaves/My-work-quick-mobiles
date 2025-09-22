@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="Assests/images/Customerside/finalpric.png" alt="Logo" width="900"/>
+  <img src="Assests/images/Customerside/finalprice.png" alt="Logo" width="900"/>
 </p>
 
 <p align="center">
@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="Assests/images/Customerside/address.png" alt="Logo" width="900"/>
+  <img src="Assests/images/Customerside/addresss.png" alt="Logo" width="900"/>
 </p>
