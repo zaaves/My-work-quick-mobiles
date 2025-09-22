@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="Assests/images/Adminside/assingpackages.png" alt="Logo" width="900"/>
+  <img src="Assests/images/Adminside/assignpackages.png" alt="Logo" width="900"/>
 </p>
 
 <p align="center">
