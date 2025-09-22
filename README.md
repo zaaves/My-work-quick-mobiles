@@ -42,15 +42,6 @@ The system also supports product listings, structured question-based packages, a
 
 ## 📸 Screenshots (Demo)
 
-> Add images of your UI here (replace with your actual paths):
-```markdown
-![Home Page](assets/screenshots/home.png)
-![Product Listing](assets/screenshots/listing.png)
-![Checkout](assets/screenshots/checkout.png)
-
-
-
-
 
 <p align="center">
   <img src="Assests/images/Customerside/sellbanner.png" alt="Logo" width="900"/>
