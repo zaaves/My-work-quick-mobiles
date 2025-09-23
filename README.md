@@ -46,15 +46,18 @@ The system also supports product listings, structured question-based packages, a
 ## ⚡ Setup & Installation
 
 1. ©️ Clone the repo:
+   
    ```bash
    git clone https://github.com/yourusername/quick-mobile.git
    cd quick-mobile
 
 2. 🔽 Install Dependencies:
+
     ```bash
     npm install
 
 3. 🔰 Start the  development server:
+   
    ```bash
    npm run dev
 
