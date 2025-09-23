@@ -24,7 +24,8 @@ The system also supports product listings, structured question-based packages, a
 - Designed and implemented **customer-side UI** in React with reusable components.
 - Integrated SEO optimization (Helmet tags) and performed Lighthouse audits, improving page SEO score and performance by ~30%.
 - Built **backend APIs (Node.js, Express, MongoDB)** to manage users, products, and Q&A packages. 
-- Integrated **multi-step forms** for device selling with dynamic question rendering.  
+- Integrated **multi-step forms** for device selling with dynamic question rendering.
+- Implemented **lazy loading & code-splitting techniques**, improving the performance and reducing initial load time by ~35%. 
 - Handled **file uploads (documents, images)** and validation on backend.  
 - Implemented **secure authentication & OTP flow** using Nodemailer.    
 - Engineered dynamic product listings (brands, packages, categories) with search, filtering, and pagination, boosting user experience and scalability.
@@ -86,6 +87,29 @@ The system also supports product listings, structured question-based packages, a
 <p align="center">
   <img src="Assests/images/Customerside/finalprice.png" alt="Logo" width="900"/>
 </p>
+
+## 👨‍💻 Admin Side – Roles & Responsibilities
+
+- Designed and developed a **scalable Admin Panel** with **Role-Based Access Control (RBAC)** for **Super Admin** and **Admin**, ensuring secure access management.  
+ 
+- Built **reusable React components** and integrated **API interceptors** for consistent error handling, token refresh, and authentication flow.  
+- Developed **dynamic management modules** for products, brands, categories, and packages, reducing repetitive code and ensuring flexibility.  
+- Implemented **file upload functionality** (images, documents) with server-side validation and secure storage handling.  
+- Built **multi-step forms and modals** for package and question-answer management, improving admin workflow efficiency.  
+- Added **data filtering, sorting, pagination and search functionality** for large datasets, enabling faster access and management.
+- Secured API routes with **middleware-based authentication & authorization** to prevent unauthorized access.  
+- Ensured **responsive UI/UX** design for desktop and tablet view, making admin management smooth across devices.  
+- Followed **clean code principles** and modular architecture for better maintainability and scalability.
+
+- ### 📊 Partner Dashboard Features (Admin Controlled)
+
+- **Partner Logs Management** – track activity history and transactions of each partner.  
+- **Payment Handling** – manage partner payouts, commissions, and earnings overview.  
+- **Approval / Rejection Workflow** – approve or block partners and handle rejected applications.  
+- **Document Verification** – verify GST certificates, business licenses, and other compliance documents.  
+- **Wallet Access** – enable/disable wallet functionalities and monitor balances securely.  
+- **Partner Performance Tracking** – provide insights on completed pickups, device approvals, and overall activity.  
+
 
 <p align="center">
   <img src="Assests/images/Adminside/dashboard.png" alt="Logo" width="900"/>
