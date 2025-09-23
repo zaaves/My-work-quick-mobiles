@@ -165,7 +165,7 @@ The system also supports product listings, structured question-based packages, a
 
 <p align="center">
   <img src="Assests/images/PartnerSide/login.png" alt="Logo" width="200"/>
-   <img src="Assests/images/PartnerSide/signup.png" alt="Logo" width="200"/>
+  <img src="Assests/images/PartnerSide/signup.png" alt="Logo" width="200"/>
 </p>
 
 <p align="center">
