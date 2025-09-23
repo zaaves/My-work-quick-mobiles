@@ -1,7 +1,13 @@
 # 📱 Quick Mobile
 
-Quick Mobile is a platform where users can sell their used phones with ease.  
-The system also supports product listings, structured question-based packages, and partner-side operations for device pickups.  
+Quick Mobile is a full-stack platform designed to simplify the process of selling and managing used mobile devices.  
+On the **Customer side**, users can browse products, answer guided question-based packages, and place selling or buying orders with a smooth checkout experience.  
+The **Admin Panel** provides role-based access (Super Admin & Admin) for managing products, brands, categories, banners, announcements, and partner operations with real-time analytics.  
+The **Partner Application (PWA)** empowers partners and pickup staff with mobile-first accessibility, Aadhaar verification, real-time order allocation, location tracking, wallet system, and cross-device session recovery for seamless field operations.  
+On the **Server side**, secure APIs handle authentication, payments, file uploads, and business logic with middleware-based authorization, ensuring data consistency and compliance.  
+The system also integrates third-party services like AWS S3 for file handling, IVR for automated communication, and Nodemailer for OTP-based authentication.  
+Overall, Quick Mobile delivers a scalable, mobile-first, and partner-enabled ecosystem that connects customers, partners, and admins into a unified workflow.  
+
 
 ---
 
