@@ -68,6 +68,14 @@ Overall, Quick Mobile delivers a scalable, mobile-first, and partner-enabled eco
    ```bash
    npm run dev
 
+---
+
+## ⚠️ Disclaimer  
+This project is a **conceptual/demo implementation**.  
+The **source code is not real** and is intended **only for presentation purposes**, not for production or official use.  
+
+---
+
 ## 📸 Screenshots 
 
 
