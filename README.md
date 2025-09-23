@@ -164,11 +164,11 @@ The system also supports product listings, structured question-based packages, a
 ## 📸 Screenshots 
 
 <p align="center">
-  <img src="Assests/images/PartnerSide/login.png" alt="Logo" width="900"/>
+  <img src="Assests/images/PartnerSide/login.png" alt="Logo" width="200"/>
 </p>
 
 <p align="center">
-  <img src="Assests/images/PartnerSide/signup.png" alt="Logo" width="900"/>
+  <img src="Assests/images/PartnerSide/signup.png" alt="Logo" width="200"/>
 </p>
 
 
