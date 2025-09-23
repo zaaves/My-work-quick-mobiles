@@ -20,23 +20,26 @@ The system also supports product listings, structured question-based packages, a
 
 ## 👨‍💻 My Roles & Responsibilities
 
-- Designed and implemented **customer-side UI** in React with reusable components.  
-- Built **backend APIs (Node.js, Express, MongoDB)** to manage users, products, and Q&A packages.  
-- Developed **slug-based search** for categories, subcategories, and brands.  
+
+- Designed and implemented **customer-side UI** in React with reusable components.
+- Integrated SEO optimization (Helmet tags) and performed Lighthouse audits, improving page SEO score and performance by ~30%.
+- Built **backend APIs (Node.js, Express, MongoDB)** to manage users, products, and Q&A packages. 
 - Integrated **multi-step forms** for device selling with dynamic question rendering.  
 - Handled **file uploads (documents, images)** and validation on backend.  
-- Implemented **secure authentication & OTP flow** using Nodemailer.  
-- Created **announcement & banner management** with admin-controlled modals.  
-- Ensured **partner-side review forms** for modifying package answers with user/partner answer comparison.  
+- Implemented **secure authentication & OTP flow** using Nodemailer.    
+- Engineered dynamic product listings (brands, packages, categories) with search, filtering, and pagination, boosting user experience and scalability.
+- Built secure authentication flows (login, signup) with validation and route-based protection.
+- Implemented external API integration for city fetching via pincodes, enhancing personalization for customers.
+- Designed smooth order management workflows (browse → cart → order), increasing usability and reducing friction. 
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, CSS Modules, ShadCN UI, Tailwind (where applicable)  
+- **Frontend:** React.js, CSS Modules, ShadCN UI, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Other Tools:** Nodemailer, Multer (file uploads), REST APIs  
+- **Other Tools:** Nodemailer, AWS S3 bucket (file uploads), REST APIs  
 
 ---
 
