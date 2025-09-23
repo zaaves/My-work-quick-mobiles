@@ -43,6 +43,14 @@ The system also supports product listings, structured question-based packages, a
 
 ---
 
+## ⚡ Setup & Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/quick-mobile.git
+   cd quick-mobile
+
+
 ## 📸 Screenshots (Demo)
 
 
