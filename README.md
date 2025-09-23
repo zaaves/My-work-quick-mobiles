@@ -62,7 +62,7 @@ The system also supports product listings, structured question-based packages, a
    ```bash
    npm run dev
 
-## 📸 Screenshots (Demo)
+## 📸 Screenshots 
 
 
 <p align="center">
@@ -110,6 +110,8 @@ The system also supports product listings, structured question-based packages, a
 - **Wallet Access** – enable/disable wallet functionalities and monitor balances securely.  
 - **Partner Performance Tracking** – provide insights on completed pickups, device approvals, and overall activity.  
 
+## 📸 Screenshots 
+
 
 <p align="center">
   <img src="Assests/images/Adminside/dashboard.png" alt="Logo" width="900"/>
@@ -146,8 +148,27 @@ The system also supports product listings, structured question-based packages, a
   <img src="Assests/images/Adminside/Categories.png" alt="Logo" width="900"/>
 </p>
 
+## 📲 Partner Application (PWA)
 
+- Developed a **Progressive Web App (PWA)** for partners and pickup staff, installable via `manifest.json`, ensuring **mobile-first accessibility**.  
+- Integrated **Aadhaar authentication APIs** and built **regex-based validation** for PAN, Aadhaar, and phone numbers, ensuring compliance and accuracy.  
+- Implemented **real-time order allocation based on city**, enabling partners to assign orders to pickup staff seamlessly.  
+- Added **real-time location tracking** for pickup staff, improving logistics visibility and operational transparency.  
+- Integrated **AWS S3 for media uploads**, optimizing image/document storage and reducing latency.  
+- Built **IVR system integration** for automated voice recordings and communication with users/partners.  
+- Ensured **state persistence across devices** – partners can resume tasks from another device without losing progress.  
+- Developed **advanced filters for orders and pickup staff**, improving task management and reducing overhead.  
+- Implemented a **Wallet System** for partners, supporting balance tracking, payouts, and transaction history.  
+- Added **Cross-Device Reconnection**, allowing pickup staff and partners to recover active sessions after network disruptions or device switches.  
 
+## 📸 Screenshots 
 
+<p align="center">
+  <img src="Assests/images/PartnerSide/login.png" alt="Logo" width="900"/>
+</p>
+
+<p align="center">
+  <img src="Assests/images/PartnerSide/signup.png" alt="Logo" width="900"/>
+</p>
 
 
