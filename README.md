@@ -55,11 +55,6 @@ The system also supports product listings, structured question-based packages, a
   <img src="Assests/images/Customerside/home.png" alt="Logo" width="900"/>
 </p>
 
-
-<p align="center">
-  <img src="Assests/images/Customerside/allcat.png" alt="Logo" width="900"/>
-</p>
-
 <p align="center">
   <img src="Assests/images/Customerside/series.png" alt="Logo" width="900"/>
 </p>
@@ -73,15 +68,6 @@ The system also supports product listings, structured question-based packages, a
 <p align="center">
   <img src="Assests/images/Customerside/finalprice.png" alt="Logo" width="900"/>
 </p>
-
-<p align="center">
-  <img src="Assests/images/Customerside/packages.png" alt="Logo" width="900"/>
-</p>
-
-<p align="center">
-  <img src="Assests/images/Customerside/addresss.png" alt="Logo" width="900"/>
-</p>
-
 
 <p align="center">
   <img src="Assests/images/Adminside/dashboard.png" alt="Logo" width="900"/>
