@@ -50,6 +50,16 @@ The system also supports product listings, structured question-based packages, a
    git clone https://github.com/yourusername/quick-mobile.git
    cd quick-mobile
 
+2. Install Dependencies:
+    ```bash
+    npm install
+
+3. Start the  development server:
+   ```bash
+   npm run dev
+
+
+
 
 ## 📸 Screenshots (Demo)
 
